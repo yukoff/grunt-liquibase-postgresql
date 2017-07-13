@@ -1,15 +1,15 @@
 {
-  "name": "grunt-liquibase-postgresql",
-  "version": "1.0.1",
-  "description": "PostgreSQL plugin for grunt-liquibase",
-  "author": "Gavriel Fleischer",
+  "name": "grunt-liquibase-sqlite",
+  "version": "1.0.0",
+  "description": "SQLite plugin for grunt-liquibase",
+  "author": "Yury Buldakov (https://github.com/yukoff)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flocsy/grunt-liquibase-postgresql.git"
+    "url": "git+https://github.com/yukoff/grunt-liquibase-sqlite.git"
   },
   "keywords": [
     "grunt-liquibase",
-    "postgresql",
+    "sqlite",
     "liquibase"
   ],
   "dependencies": {
@@ -19,9 +19,9 @@
     "grunt": ">=0.4.0",
     "grunt-liquibase": "^1.0.0"
   },
-  "homepage": "https://github.com/flocsy/grunt-liquibase-postgresql#readme",
+  "homepage": "https://github.com/yukoff/grunt-liquibase-sqlite#readme",
   "bugs": {
-    "url": "https://github.com/flocsy/grunt-liquibase-postgresql/issues"
+    "url": "https://github.com/yukoff/grunt-liquibase-sqlite/issues"
   },
   "scripts": {
     "test": "echo \"Warning: no test specified\" && exit 0"
